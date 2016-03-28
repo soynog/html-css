@@ -1,0 +1,32 @@
+navbar ul {
+  background-color: #F8DC6C;
+  margin: 20px;
+  padding: 10px 20px 10px 20px;
+  list-style-type: none;
+}
+
+.picList {
+  list-style-type: none;
+}
+
+navbar ul li {
+  display: inline;
+}
+
+button {
+  background-color: #D9801A;
+}
+
+body {
+  width: 800px;
+}
+
+h1 {
+  font-family: helvetica;
+}
+
+.chickens {
+  font-family: 'Comic sans MS';
+  color: fuchsia;
+  font-weight: bold;
+}
